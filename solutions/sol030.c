@@ -21,7 +21,7 @@ int main()
       b = c;
    }
 
-   printf("\nTheir sum is = %d", sum);
+   printf("\nTheir sum is  = %d", sum);
 
    return 0;
 }
