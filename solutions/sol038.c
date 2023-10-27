@@ -6,9 +6,9 @@ int main() {
     
     double sum = 0;
 
-    // Checking if the input number is positive
+
     if (number <= 0) {
-        printf("Please enter a positive integer.\n");
+        printf("Please enter a positive integer\n");
         return 1; // Indicates an error
     }
 
